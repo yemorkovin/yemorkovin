@@ -2,7 +2,7 @@
 
 ![Banner](main.jpeg)
 
-## 🛠 Технологический стек
+## 🛠 Мой стек
 
 ### 🔧 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
@@ -29,9 +29,9 @@
 ## � Мои проекты
 
 ### 🔥 Популярные репозитории
-- [Проект 1](https://github.com/YOUR_USERNAME/project1) - Краткое описание
-- [Проект 2](https://github.com/YOUR_USERNAME/project2) - Краткое описание
-- [Проект 3](https://github.com/YOUR_USERNAME/project3) - Краткое описание
+- [Новостной сайт на laravel](https://github.com/yemorkovin/laravel_full) - Новостной сайт на laravel 
+- [Messager на django](https://github.com/yemorkovin/messanger_work) - Messager на django с использованием сокетов
+- [Сайт на larvel по продаже машин из Европы](https://github.com/yemorkovin/laravel_magaz) - Сайт на larvel по продаже машин из Европы
 
 ## 📫 Контакты
 
