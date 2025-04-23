@@ -1,6 +1,6 @@
-# 👋 Привет, я [Ваше Имя] — Fullstack разработчик
+# 👋 Привет, я Евгений — Fullstack разработчик
 
-![Banner](https://via.placeholder.com/1920x600/2d3748/ffffff?text=Welcome+to+my+GitHub)
+![Banner](main.png)
 
 ## 🛠 Технологический стек
 
@@ -22,9 +22,9 @@
 
 ## 📈 GitHub статистика
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/YOUR_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yemorkovin&show_icons=true&theme=radical)](https://github.com/yemorkovin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_USERNAME)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemorkovin&layout=compact&theme=radical)](https://github.com/yemorkovin)
 
 ## � Мои проекты
 
